@@ -4,10 +4,10 @@
 
 ### 1. Scan/Photo of Sketches
 
-## Problem:
+#### Problem:
 Unclear and confusing grouping of the modules on the navigation bar, and all modules put on directly on main page in home page, make home seems a bit dirty 
 
-![Photo of Sketches](src/2019_03_21 07_15 Office Lens.jpg)
+![Photo of Sketches](src/2019_03_21-07_15-Office-Lens.jpg)
 
 ### 2. Version Differences
 
