@@ -54,4 +54,5 @@ SIAKAD ITS is only accessible by students or lecturer of ITS. So the users is co
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 21st, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+
+https://invis.io/PUR8K9SSD7G#/354737279_Home
