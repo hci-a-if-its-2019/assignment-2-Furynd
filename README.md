@@ -55,4 +55,8 @@ SIAKAD ITS is only accessible by students or lecturer of ITS. So the users is co
 
 ## Part C: Prototypes
 
+### Freehand
+https://projects.invisionapp.com/freehand/document/qTlLaTa8x
+
+### Prototype
 https://invis.io/PUR8K9SSD7G#/354737279_Home
