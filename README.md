@@ -61,3 +61,6 @@ https://projects.invisionapp.com/freehand/document/qTlLaTa8x
 
 ### Prototype
 https://invis.io/PUR8K9SSD7G#/354737279_Home
+
+#### High Videlity Version
+https://invis.io/GYRD5GU6DHC#/356141826_Home1
